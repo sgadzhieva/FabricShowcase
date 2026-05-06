@@ -1,0 +1,1099 @@
+report_date,google_campaign_id,campaign_id_crm_ref,campaign_name,ad_objective,device_type,country,impressions,clicks,ctr_pct,avg_cpc_eur,conversions,conv_rate_pct,spend_eur,revenue_eur,roas,quality_score,_load_ts,_source_system
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,9140,157,1.72,0.55,6,3.92,86.35,920.26,10.66,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3122,64,2.05,0.58,2,3.68,37.12,137.15,3.69,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,1637,31,1.9,0.55,1,4.04,17.05,142.99,8.39,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,7810,161,2.06,0.55,7,4.31,88.55,460.46,5.2,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,2819,64,2.27,0.48,3,4.0,30.72,539.6,17.57,8,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1479,30,2.01,0.55,1,4.13,16.5,137.45,8.33,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,1984,34,1.69,0.65,1,4.25,22.1,110.42,5.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,630,11,1.72,0.63,0,4.35,6.93,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-02,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,387,6,1.47,0.56,0,4.32,3.36,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,8948,157,1.75,0.6,6,3.92,94.2,652.68,6.93,7,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3143,56,1.79,0.64,2,3.91,35.84,285.53,7.97,7,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,1976,35,1.78,0.54,2,5.03,18.9,221.07,11.7,7,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,9467,213,2.25,0.54,9,4.27,115.02,1495.28,13.0,8,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3048,63,2.07,0.49,2,3.61,30.87,194.26,6.29,7,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1556,37,2.38,0.49,2,5.24,18.13,287.31,15.85,8,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,1948,34,1.75,0.56,1,4.15,19.04,94.6,4.97,7,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,688,11,1.54,0.64,0,4.31,7.04,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-03,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,371,7,1.78,0.53,0,4.72,3.71,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,9314,182,1.95,0.58,8,4.57,105.56,580.99,5.5,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3398,71,2.09,0.65,3,4.24,46.15,504.88,10.94,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,1811,36,1.98,0.59,2,4.96,21.24,194.04,9.14,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,9389,190,2.02,0.51,8,4.12,96.9,1435.66,14.82,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3363,70,2.08,0.48,3,4.2,33.6,523.55,15.58,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1985,42,2.1,0.53,2,4.9,22.26,166.68,7.49,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2303,38,1.63,0.59,2,4.55,22.42,130.14,5.8,7,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,697,10,1.46,0.63,0,4.74,6.3,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-04,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,410,6,1.47,0.64,0,5.24,3.84,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,10984,191,1.74,0.62,9,4.53,118.42,723.66,6.11,7,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3707,71,1.92,0.63,3,3.9,44.73,347.33,7.77,7,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2041,39,1.91,0.55,2,5.03,21.45,204.81,9.55,7,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,10875,245,2.25,0.52,10,4.12,127.4,795.21,6.24,8,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3033,64,2.11,0.49,3,4.31,31.36,274.28,8.75,7,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1716,38,2.24,0.56,2,4.32,21.28,336.31,15.8,8,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2043,31,1.53,0.55,1,4.41,17.05,80.88,4.74,6,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,864,14,1.64,0.62,1,4.17,8.68,161.9,18.65,7,2024-12-31T06:30:00,google_ads_api
+2024-01-05,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,423,6,1.48,0.58,0,4.61,3.48,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,12266,242,1.97,0.53,12,4.81,128.26,1359.77,10.6,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3758,77,2.04,0.55,3,3.88,42.35,356.5,8.42,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2270,41,1.82,0.64,2,4.35,26.24,236.35,9.01,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,11078,245,2.21,0.57,9,3.63,139.65,1487.91,10.65,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3844,91,2.37,0.48,4,4.64,43.68,493.11,11.29,8,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1878,40,2.14,0.5,2,4.08,20.0,366.47,18.32,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2267,39,1.71,0.58,2,4.14,22.62,359.76,15.9,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,921,15,1.63,0.54,1,4.48,8.1,100.6,12.42,7,2024-12-31T06:30:00,google_ads_api
+2024-01-06,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,541,9,1.64,0.62,0,4.76,5.58,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,12263,233,1.9,0.54,11,4.64,125.82,1983.23,15.76,7,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3623,64,1.78,0.61,3,4.32,39.04,279.67,7.16,7,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2166,44,2.05,0.6,2,4.35,26.4,278.65,10.55,7,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,10284,228,2.22,0.56,10,4.23,127.68,895.11,7.01,8,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3753,78,2.07,0.53,3,4.07,41.34,303.0,7.33,7,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,2001,46,2.3,0.51,2,4.1,23.46,369.63,15.76,8,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2820,42,1.48,0.56,2,3.84,23.52,353.98,15.05,6,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,929,16,1.74,0.54,1,4.04,8.64,165.05,19.1,7,2024-12-31T06:30:00,google_ads_api
+2024-01-07,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,526,9,1.65,0.61,0,5.39,5.49,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,13265,241,1.82,0.64,11,4.41,154.24,892.26,5.78,7,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3740,65,1.75,0.56,3,4.27,36.4,412.74,11.34,7,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2590,46,1.79,0.56,2,4.89,25.76,247.25,9.6,7,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,11851,277,2.34,0.51,10,3.69,141.27,982.02,6.95,8,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3168,73,2.3,0.49,3,4.37,35.77,461.84,12.91,8,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,2175,47,2.15,0.47,2,4.01,22.09,341.95,15.48,7,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2821,46,1.63,0.6,2,4.62,27.6,165.54,6.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,782,12,1.55,0.62,1,4.7,7.44,168.28,22.62,6,2024-12-31T06:30:00,google_ads_api
+2024-01-08,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,563,9,1.52,0.54,0,4.35,4.86,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,13574,252,1.86,0.54,11,4.35,136.08,1942.44,14.27,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,4573,95,2.08,0.63,4,4.59,59.85,271.9,4.54,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2621,48,1.84,0.62,3,5.31,29.76,506.06,17.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,11673,243,2.08,0.47,11,4.56,114.21,1866.26,16.34,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3996,82,2.06,0.51,4,4.6,41.82,406.49,9.72,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,2326,48,2.07,0.48,2,4.03,23.04,208.78,9.06,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2815,50,1.77,0.6,2,3.92,30.0,225.92,7.53,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,979,16,1.63,0.54,1,4.75,8.64,181.45,21.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-09,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,472,8,1.76,0.54,0,4.37,4.32,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,12986,238,1.83,0.59,10,4.33,140.42,1112.23,7.92,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,4233,77,1.81,0.52,3,4.46,40.04,528.21,13.19,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2477,49,1.98,0.61,2,5.05,29.89,217.41,7.27,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,9543,216,2.26,0.49,9,3.99,105.84,1500.86,14.18,8,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3838,81,2.1,0.51,3,3.96,41.31,339.86,8.23,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,2033,41,2.02,0.56,2,4.59,22.96,292.56,12.74,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2820,47,1.65,0.59,2,3.95,27.73,130.1,4.69,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,817,13,1.59,0.61,1,4.3,7.93,120.8,15.23,7,2024-12-31T06:30:00,google_ads_api
+2024-01-10,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,503,8,1.52,0.64,0,4.67,5.12,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,10983,191,1.74,0.6,8,4.22,114.6,841.78,7.35,7,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,4396,88,2.0,0.55,4,4.42,48.4,355.58,7.35,7,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2107,38,1.8,0.63,2,4.67,23.94,147.48,6.16,7,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,10271,230,2.24,0.54,9,3.81,124.2,1118.93,9.01,8,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3321,75,2.25,0.54,3,3.58,40.5,472.22,11.66,8,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1888,41,2.15,0.57,2,4.25,23.37,254.31,10.88,7,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2211,34,1.53,0.58,2,4.64,19.72,322.34,16.35,6,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,883,16,1.77,0.64,1,4.32,10.24,171.97,16.79,7,2024-12-31T06:30:00,google_ads_api
+2024-01-11,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,515,9,1.69,0.63,0,4.71,5.67,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,12767,254,1.99,0.56,11,4.17,142.24,1041.36,7.32,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,4059,81,2.0,0.6,3,4.23,48.6,293.86,6.05,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2065,38,1.82,0.56,2,4.38,21.28,259.64,12.2,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,9191,190,2.07,0.54,8,4.44,102.6,581.66,5.67,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3349,74,2.2,0.48,3,4.09,35.52,346.25,9.75,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,2238,50,2.22,0.56,2,4.98,28.0,313.74,11.21,8,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2339,34,1.46,0.62,1,4.01,21.08,167.41,7.94,6,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,912,15,1.59,0.59,1,4.51,8.85,137.39,15.52,7,2024-12-31T06:30:00,google_ads_api
+2024-01-12,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,448,7,1.52,0.53,0,4.61,3.71,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,11532,214,1.86,0.58,8,3.78,124.12,642.52,5.18,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3849,66,1.72,0.59,3,4.07,38.94,204.76,5.26,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2286,40,1.76,0.53,2,4.65,21.2,220.98,10.42,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,8930,188,2.11,0.5,9,4.53,94.0,1397.17,14.86,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3544,74,2.08,0.46,3,3.67,34.04,389.19,11.43,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,2177,46,2.12,0.55,2,4.92,25.3,286.42,11.32,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2447,43,1.76,0.52,2,3.82,22.36,166.57,7.45,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,703,12,1.67,0.55,1,4.28,6.6,148.94,22.57,7,2024-12-31T06:30:00,google_ads_api
+2024-01-13,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,491,7,1.51,0.62,0,4.86,4.34,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,11206,233,2.08,0.53,9,3.71,123.49,921.91,7.47,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3665,76,2.07,0.61,3,4.07,46.36,222.36,4.8,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2173,42,1.95,0.62,2,4.14,26.04,334.07,12.83,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,9295,188,2.02,0.55,9,4.81,103.4,959.98,9.28,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,3010,64,2.13,0.5,3,4.21,32.0,500.85,15.65,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1962,39,2.01,0.53,2,5.35,20.67,328.89,15.91,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,2272,36,1.59,0.65,2,4.49,23.4,194.82,8.33,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,788,13,1.63,0.58,1,4.18,7.54,152.72,20.25,7,2024-12-31T06:30:00,google_ads_api
+2024-01-14,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,406,7,1.73,0.53,0,5.17,3.71,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,DE,8975,170,1.89,0.57,7,4.34,96.9,479.11,4.94,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,AT,3546,63,1.78,0.62,2,3.84,39.06,211.68,5.42,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,desktop,CH,2110,42,1.98,0.52,2,4.39,21.84,357.54,16.37,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,DE,7511,171,2.28,0.54,7,4.19,92.34,1035.11,11.21,8,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,AT,2953,64,2.18,0.47,3,4.57,30.08,274.77,9.13,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,mobile,CH,1765,37,2.1,0.51,2,4.82,18.87,257.42,13.64,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,DE,1963,33,1.69,0.61,1,3.99,20.13,97.51,4.84,7,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,AT,634,9,1.49,0.54,0,3.81,4.86,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-01-15,GGL-204481,CMP-2001,Neujahrsangebote – Elektronik & Gadgets,CONVERSIONS,tablet,CH,427,6,1.51,0.58,0,4.3,3.48,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6722,189,2.81,0.41,5,2.62,77.49,441.47,5.7,7,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,1884,49,2.62,0.45,1,2.39,22.05,97.92,4.44,7,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1344,38,2.83,0.41,1,3.32,15.58,169.22,10.86,7,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5227,181,3.46,0.39,5,2.86,70.59,589.28,8.35,8,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1629,48,2.93,0.39,2,3.17,18.72,327.31,17.48,7,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1021,30,2.95,0.35,1,3.26,10.5,82.9,7.9,7,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1268,29,2.29,0.41,1,3.21,11.89,156.73,13.18,6,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,434,11,2.52,0.45,0,2.57,4.95,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,246,6,2.55,0.43,0,3.6,2.58,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6281,184,2.93,0.42,6,3.18,77.28,541.94,7.01,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2153,56,2.61,0.4,1,2.53,22.4,65.32,2.92,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1206,34,2.85,0.42,1,2.94,14.28,149.83,10.49,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5624,179,3.19,0.43,5,2.96,76.97,797.7,10.36,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1867,62,3.32,0.38,2,3.16,23.56,260.69,11.06,8,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1110,39,3.48,0.35,1,3.44,13.65,84.91,6.22,8,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1210,30,2.5,0.42,1,2.86,12.6,79.92,6.34,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,452,11,2.48,0.44,0,3.17,4.84,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,227,5,2.16,0.43,0,3.07,2.15,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,5574,171,3.06,0.45,5,3.08,76.95,895.47,11.64,7,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2380,69,2.9,0.4,2,2.61,27.6,311.5,11.29,7,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1236,36,2.88,0.41,1,3.53,14.76,135.24,9.16,7,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5640,181,3.21,0.38,4,2.46,68.78,419.99,6.11,7,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1926,66,3.45,0.41,2,2.66,27.06,199.17,7.36,8,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1215,42,3.42,0.39,1,3.18,16.38,102.74,6.27,8,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1239,32,2.6,0.45,1,2.72,14.4,183.57,12.75,7,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,457,11,2.4,0.41,0,2.73,4.51,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,277,7,2.44,0.42,0,3.38,2.94,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7049,195,2.77,0.41,6,2.97,79.95,1090.67,13.64,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2209,59,2.65,0.45,1,2.51,26.55,131.27,4.94,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1137,35,3.08,0.44,1,3.52,15.4,79.1,5.14,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6031,194,3.22,0.39,6,2.98,75.66,586.87,7.76,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2043,72,3.53,0.4,2,2.58,28.8,222.06,7.71,8,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1232,40,3.23,0.42,1,3.49,16.8,98.15,5.84,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1422,33,2.34,0.45,1,3.16,14.85,163.47,11.01,7,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,423,10,2.28,0.49,0,2.87,4.9,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,241,6,2.4,0.45,0,2.99,2.7,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6395,173,2.7,0.46,4,2.54,79.58,534.46,6.72,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2039,60,2.95,0.47,1,2.42,28.2,149.63,5.31,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1398,38,2.74,0.48,1,3.29,18.24,182.7,10.02,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5654,165,2.92,0.4,5,2.8,66.0,846.82,12.83,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2100,67,3.18,0.39,2,2.82,26.13,303.39,11.61,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1106,37,3.32,0.39,1,2.81,14.43,181.3,12.56,8,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1292,32,2.47,0.48,1,2.93,15.36,167.28,10.89,7,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,498,12,2.32,0.47,0,2.65,5.64,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,295,6,2.16,0.46,0,2.73,2.76,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7431,218,2.94,0.41,6,2.74,89.38,846.3,9.47,7,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2443,68,2.77,0.48,2,2.96,32.64,141.04,4.32,7,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1418,38,2.68,0.41,1,3.02,15.58,128.74,8.26,7,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5862,200,3.41,0.36,5,2.52,72.0,847.5,11.77,8,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2011,61,3.05,0.36,2,3.15,21.96,240.68,10.96,7,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1080,33,3.06,0.42,1,2.67,13.86,173.15,12.49,7,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1435,32,2.22,0.43,1,2.75,13.76,135.51,9.85,6,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,481,11,2.34,0.48,0,2.59,5.28,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,266,6,2.37,0.45,0,2.89,2.7,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7555,203,2.69,0.46,6,3.2,93.38,587.63,6.29,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2308,67,2.9,0.4,2,3.01,26.8,275.54,10.28,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1340,41,3.03,0.47,1,2.93,19.27,137.85,7.15,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5643,187,3.31,0.41,5,2.9,76.67,757.56,9.88,8,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2067,71,3.44,0.43,2,2.91,30.53,285.12,9.34,8,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1116,35,3.18,0.41,1,3.21,14.35,75.82,5.28,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1323,33,2.5,0.41,1,2.53,13.53,129.73,9.59,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,530,13,2.39,0.48,0,3.15,6.24,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,303,7,2.37,0.47,0,3.42,3.29,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6144,188,3.06,0.49,5,2.5,92.12,841.08,9.13,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2441,75,3.07,0.47,2,3.19,35.25,217.79,6.18,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1466,37,2.53,0.44,1,3.17,16.28,145.74,8.95,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6231,204,3.27,0.43,6,3.07,87.72,468.01,5.34,8,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1881,55,2.91,0.4,2,3.12,22.0,349.66,15.89,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1108,33,2.94,0.43,1,3.44,14.19,101.26,7.14,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1387,31,2.21,0.43,1,3.17,13.33,124.11,9.31,6,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,431,11,2.56,0.44,0,2.49,4.84,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,302,8,2.59,0.47,0,3.06,3.76,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6780,175,2.58,0.44,5,2.79,77.0,895.91,11.64,7,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2064,56,2.73,0.49,2,2.75,27.44,335.31,12.22,7,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1243,36,2.9,0.49,1,3.18,17.64,108.04,6.12,7,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5906,178,3.02,0.42,4,2.48,74.76,478.26,6.4,7,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2139,71,3.31,0.35,2,2.88,24.85,318.83,12.83,8,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1133,34,2.98,0.35,1,3.2,11.9,156.82,13.18,7,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1335,30,2.24,0.43,1,3.11,12.9,82.71,6.41,6,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,539,12,2.14,0.41,0,3.1,4.92,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,270,6,2.23,0.4,0,3.29,2.4,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7568,201,2.65,0.41,5,2.65,82.41,356.44,4.33,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2532,71,2.81,0.44,2,3.01,31.24,316.72,10.14,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1413,36,2.58,0.49,1,3.14,17.64,70.2,3.98,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6611,229,3.46,0.39,6,2.82,89.31,1084.1,12.14,8,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1850,59,3.21,0.41,2,2.72,24.19,247.66,10.24,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1362,40,2.95,0.4,1,2.74,16.0,72.88,4.55,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1382,34,2.44,0.43,1,2.84,14.62,184.36,12.61,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,500,12,2.36,0.41,0,2.89,4.92,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,320,8,2.45,0.47,0,3.39,3.76,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7060,187,2.65,0.44,5,2.66,82.28,574.59,6.98,7,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2168,60,2.76,0.43,2,2.94,25.8,166.63,6.46,7,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1586,41,2.56,0.41,1,3.45,16.81,76.59,4.56,7,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6640,227,3.42,0.4,6,2.85,90.8,794.34,8.75,8,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2025,60,2.98,0.41,2,2.68,24.6,310.07,12.6,7,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1370,46,3.36,0.4,2,3.58,18.4,214.4,11.65,8,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1519,34,2.24,0.42,1,2.93,14.28,77.99,5.46,6,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,549,13,2.32,0.45,0,3.02,5.85,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,324,8,2.61,0.46,0,3.44,3.68,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6369,194,3.04,0.42,6,3.08,81.48,519.9,6.38,7,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2583,69,2.69,0.4,2,2.67,27.6,338.77,12.27,7,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1476,40,2.74,0.46,1,2.8,18.4,68.68,3.73,7,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6749,205,3.04,0.38,6,2.73,77.9,656.44,8.43,7,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2271,77,3.4,0.36,2,2.86,27.72,142.63,5.15,8,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1158,38,3.3,0.37,1,3.3,14.06,144.43,10.27,8,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1506,35,2.35,0.47,1,2.61,16.45,78.66,4.78,7,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,502,11,2.28,0.44,0,2.95,4.84,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,267,6,2.33,0.4,0,3.23,2.4,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6809,177,2.6,0.43,5,2.59,76.11,329.64,4.33,7,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2648,69,2.62,0.46,2,2.7,31.74,250.06,7.88,7,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1597,47,2.97,0.48,1,2.73,22.56,70.08,3.11,7,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5639,197,3.49,0.4,6,3.1,78.8,802.85,10.19,8,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2296,73,3.17,0.35,2,2.48,25.55,207.94,8.14,7,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1387,46,3.3,0.43,2,3.45,19.78,151.15,7.64,8,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1668,38,2.26,0.45,1,2.87,17.1,112.49,6.58,6,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,493,11,2.3,0.41,0,2.66,4.51,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,276,7,2.38,0.43,0,3.52,3.01,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8065,240,2.98,0.41,6,2.58,98.4,532.04,5.41,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2589,76,2.95,0.41,2,2.93,31.16,315.48,10.12,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1488,44,2.94,0.44,1,3.38,19.36,175.9,9.09,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6630,219,3.31,0.42,6,2.9,91.98,841.6,9.15,8,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2009,59,2.94,0.37,2,2.75,21.83,195.92,8.97,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1155,37,3.22,0.39,1,2.96,14.43,71.83,4.98,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1685,37,2.18,0.48,1,3.11,17.76,138.8,7.82,6,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,527,12,2.36,0.47,0,2.85,5.64,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,307,8,2.53,0.43,0,3.28,3.44,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6869,175,2.55,0.48,4,2.47,84.0,424.85,5.06,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2695,75,2.8,0.42,2,2.52,31.5,235.06,7.46,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1486,42,2.81,0.43,1,2.81,18.06,98.95,5.48,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6449,201,3.12,0.42,6,2.88,84.42,856.06,10.14,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1985,59,2.96,0.37,2,2.95,21.83,303.7,13.91,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1374,48,3.48,0.38,2,3.49,18.24,269.86,14.79,8,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1427,33,2.31,0.46,1,3.19,15.18,112.03,7.38,6,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,545,14,2.59,0.43,0,2.64,6.02,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,340,8,2.46,0.47,0,3.45,3.76,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7689,221,2.88,0.43,6,2.74,95.03,651.07,6.85,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2372,63,2.64,0.44,2,3.18,27.72,184.37,6.65,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1385,35,2.56,0.41,1,3.46,14.35,157.5,10.98,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7259,252,3.47,0.38,6,2.41,95.76,941.74,9.83,8,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2047,64,3.14,0.42,2,2.52,26.88,315.06,11.72,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1443,43,3.0,0.38,1,3.08,16.34,146.16,8.94,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1484,35,2.35,0.47,1,2.62,16.45,118.87,7.23,7,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,543,12,2.29,0.44,0,3.06,5.28,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-03-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,307,8,2.59,0.44,0,3.59,3.52,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7488,211,2.82,0.48,7,3.19,101.28,1128.06,11.14,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2371,63,2.66,0.48,2,2.92,30.24,263.09,8.7,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1387,41,2.99,0.42,1,3.47,17.22,156.57,9.09,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6362,221,3.48,0.39,6,2.5,86.19,1071.42,12.43,8,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2124,68,3.19,0.35,2,2.67,23.8,142.78,6.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1352,41,3.05,0.38,1,3.6,15.58,68.38,4.39,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1787,45,2.54,0.47,1,2.93,21.15,81.51,3.85,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,515,13,2.54,0.41,0,2.96,5.33,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-03-31,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,318,7,2.14,0.42,0,2.74,2.94,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7902,232,2.93,0.41,7,2.82,95.12,697.01,7.33,7,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2506,64,2.55,0.47,2,2.73,30.08,239.71,7.97,7,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1405,43,3.03,0.4,1,3.23,17.2,126.85,7.38,7,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6375,191,2.99,0.4,5,2.74,76.4,469.34,6.14,7,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2262,75,3.33,0.43,2,2.45,32.25,146.24,4.53,8,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1375,44,3.22,0.4,2,3.6,17.6,223.71,12.71,7,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1613,39,2.44,0.42,1,3.2,16.38,66.95,4.09,7,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,591,14,2.31,0.46,0,3.0,6.44,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,345,8,2.3,0.45,0,2.71,3.6,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7222,214,2.96,0.46,6,2.77,98.44,844.85,8.58,7,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2881,74,2.56,0.44,2,3.03,32.56,200.43,6.16,7,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1391,37,2.63,0.49,1,2.71,18.13,126.85,7.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7764,252,3.25,0.41,7,2.59,103.32,615.53,5.96,7,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2248,76,3.4,0.38,2,3.11,28.88,159.87,5.54,8,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1332,46,3.47,0.42,2,3.36,19.32,222.79,11.53,8,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1842,44,2.38,0.49,1,2.8,21.56,127.31,5.9,7,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,599,15,2.49,0.45,0,2.45,6.75,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,332,8,2.29,0.46,0,2.74,3.68,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8163,225,2.76,0.43,7,2.96,96.75,490.58,5.07,7,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2948,80,2.72,0.42,3,3.22,33.6,547.81,16.3,7,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1774,45,2.56,0.43,1,3.27,19.35,161.13,8.33,7,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7280,256,3.51,0.4,6,2.5,102.4,952.54,9.3,8,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2073,61,2.94,0.38,2,3.03,23.18,221.89,9.57,7,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1416,47,3.29,0.43,2,3.3,20.21,219.28,10.85,8,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1769,43,2.42,0.43,1,2.82,18.49,142.95,7.73,7,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,525,12,2.2,0.44,0,3.0,5.28,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,337,8,2.27,0.44,0,2.91,3.52,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7577,230,3.03,0.41,6,2.79,94.3,1004.03,10.65,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2681,81,3.02,0.4,2,2.75,32.4,293.66,9.06,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1747,47,2.7,0.4,1,2.99,18.8,130.06,6.92,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7724,266,3.45,0.43,8,2.98,114.38,1132.19,9.9,8,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2555,83,3.23,0.37,2,2.48,30.71,163.33,5.32,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1508,44,2.91,0.38,1,3.19,16.72,161.44,9.66,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1693,41,2.43,0.43,1,2.45,17.63,184.95,10.49,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,597,14,2.39,0.48,0,3.03,6.72,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,375,9,2.45,0.46,0,3.09,4.14,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8868,262,2.96,0.41,8,2.92,107.42,1447.61,13.48,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2688,81,3.03,0.41,2,2.43,33.21,166.72,5.02,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1477,40,2.7,0.43,1,3.33,17.2,177.91,10.34,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7790,268,3.44,0.4,7,2.59,107.2,917.71,8.56,8,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2162,67,3.09,0.39,2,2.83,26.13,170.47,6.52,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1575,47,3.0,0.41,2,3.29,19.27,275.23,14.28,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1832,44,2.41,0.4,1,3.07,17.6,70.46,4.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,591,14,2.42,0.47,0,2.93,6.58,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,349,8,2.38,0.42,0,3.26,3.36,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8102,241,2.97,0.42,7,2.96,101.22,516.3,5.1,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2442,68,2.77,0.42,2,2.79,28.56,275.6,9.65,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1549,45,2.92,0.48,2,3.36,21.6,364.09,16.86,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6443,202,3.14,0.38,6,2.85,76.76,725.86,9.46,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2266,69,3.06,0.37,2,2.46,25.53,222.2,8.7,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1466,45,3.06,0.36,2,3.48,16.2,208.58,12.88,7,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1729,40,2.29,0.44,1,3.02,17.6,126.77,7.2,6,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,574,13,2.29,0.49,0,2.4,6.37,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,380,9,2.24,0.4,0,3.0,3.6,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8994,260,2.89,0.45,7,2.78,117.0,1166.62,9.97,7,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2722,82,3.01,0.47,2,2.99,38.54,217.82,5.65,7,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1596,45,2.84,0.45,1,2.85,20.25,73.82,3.65,7,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7172,243,3.39,0.43,6,2.61,104.49,879.89,8.42,8,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2187,77,3.53,0.42,2,2.71,32.34,211.38,6.54,8,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1595,54,3.38,0.39,2,2.85,21.06,250.02,11.87,8,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1506,33,2.21,0.44,1,2.66,14.52,119.84,8.25,6,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,593,14,2.39,0.46,0,2.66,6.44,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,384,10,2.49,0.43,0,2.95,4.3,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8302,242,2.92,0.47,6,2.63,113.74,655.22,5.76,7,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2911,89,3.07,0.47,3,2.87,41.83,456.12,10.9,7,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1726,44,2.53,0.49,1,3.11,21.56,158.95,7.37,7,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7716,252,3.27,0.4,8,2.99,100.8,683.69,6.78,8,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2519,83,3.3,0.36,3,3.09,29.88,440.06,14.73,8,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1267,44,3.51,0.35,1,2.77,15.4,102.64,6.66,8,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1561,39,2.47,0.47,1,2.72,18.33,175.46,9.57,7,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,636,16,2.49,0.41,0,2.43,6.56,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,328,8,2.46,0.43,0,3.16,3.44,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,9150,248,2.71,0.47,7,2.68,116.56,1060.58,9.1,7,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2903,84,2.91,0.41,2,2.89,34.44,189.16,5.49,7,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1679,44,2.65,0.42,2,3.58,18.48,199.36,10.79,7,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6693,224,3.35,0.38,6,2.65,85.12,1062.26,12.48,8,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2636,81,3.07,0.41,2,2.48,33.21,221.13,6.66,7,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1627,56,3.43,0.42,2,3.56,23.52,199.71,8.49,8,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1629,40,2.48,0.44,1,2.67,17.6,95.77,5.44,7,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,580,13,2.24,0.49,0,2.83,6.37,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,312,8,2.44,0.42,0,3.22,3.36,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8372,241,2.88,0.44,6,2.42,106.04,906.5,8.55,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2522,74,2.95,0.45,2,2.38,33.3,352.98,10.6,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1621,49,3.04,0.44,2,3.49,21.56,177.87,8.25,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,8135,252,3.1,0.43,7,2.92,108.36,530.15,4.89,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2507,81,3.24,0.43,2,2.99,34.83,349.18,10.03,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1332,46,3.47,0.43,1,2.83,19.78,184.66,9.34,8,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1684,40,2.38,0.49,1,3.17,19.6,176.12,8.99,7,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,642,14,2.15,0.41,0,2.86,5.74,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,327,9,2.61,0.44,0,3.18,3.96,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,9086,253,2.78,0.41,6,2.54,103.73,507.0,4.89,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2791,74,2.66,0.47,2,2.54,34.78,319.78,9.19,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1696,50,2.94,0.48,1,2.83,24.0,172.65,7.19,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7905,255,3.23,0.41,6,2.45,104.55,523.04,5.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2240,70,3.11,0.37,2,2.59,25.9,186.53,7.2,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1554,55,3.51,0.41,2,2.95,22.55,132.74,5.89,8,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1805,45,2.47,0.41,1,2.43,18.45,101.82,5.52,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,573,14,2.38,0.46,0,3.13,6.44,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,313,8,2.58,0.46,0,2.94,3.68,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7566,197,2.61,0.45,6,3.01,88.65,689.41,7.78,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2864,80,2.78,0.46,2,2.83,36.8,182.42,4.96,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1562,46,2.94,0.4,2,3.49,18.4,237.22,12.89,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7694,227,2.95,0.35,6,2.85,79.45,784.31,9.87,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2478,81,3.27,0.38,2,2.51,30.78,254.88,8.28,8,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1318,40,3.03,0.36,1,3.21,14.4,126.25,8.77,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1879,44,2.36,0.44,1,2.81,19.36,71.93,3.72,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,583,15,2.53,0.43,0,2.99,6.45,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,370,9,2.42,0.43,0,2.71,3.87,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,9435,287,3.04,0.49,7,2.44,140.63,481.66,3.43,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2766,82,2.95,0.49,2,3.02,40.18,285.01,7.09,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1640,51,3.08,0.48,2,3.03,24.48,347.62,14.2,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7089,237,3.34,0.39,7,2.94,92.43,1003.97,10.86,8,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2382,72,3.01,0.39,2,2.83,28.08,304.69,10.85,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1360,39,2.9,0.37,1,2.69,14.43,145.82,10.11,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1764,42,2.4,0.42,1,3.07,17.64,106.54,6.04,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,556,14,2.59,0.41,0,2.99,5.74,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,341,9,2.51,0.4,0,3.5,3.6,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7518,191,2.54,0.46,6,2.88,87.86,425.05,4.84,7,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,3012,83,2.75,0.42,2,2.58,34.86,337.3,9.68,7,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1484,42,2.8,0.47,1,2.94,19.74,152.78,7.74,7,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6990,229,3.28,0.38,7,2.94,87.02,708.48,8.14,8,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2254,75,3.32,0.37,2,2.57,27.75,144.63,5.21,8,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1636,57,3.46,0.4,2,3.52,22.8,232.53,10.2,8,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1744,45,2.6,0.46,1,3.17,20.7,159.3,7.7,7,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,563,13,2.34,0.43,0,2.51,5.59,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,347,9,2.55,0.46,0,2.95,4.14,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,9277,263,2.83,0.45,8,3.19,118.35,648.73,5.48,7,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2649,70,2.63,0.49,2,2.92,34.3,333.31,9.72,7,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1501,44,2.93,0.42,1,2.84,18.48,145.84,7.89,7,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7529,261,3.46,0.41,7,2.54,107.01,1063.42,9.94,8,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2520,81,3.21,0.38,3,3.11,30.78,539.53,17.53,7,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1284,45,3.5,0.36,2,3.57,16.2,369.9,22.83,8,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1737,39,2.26,0.42,1,2.89,16.38,174.82,10.67,6,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,599,15,2.51,0.45,0,2.7,6.75,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,328,8,2.39,0.41,0,3.13,3.28,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8313,249,2.99,0.43,8,3.15,107.07,917.37,8.57,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2882,76,2.64,0.42,2,2.5,31.92,354.34,11.1,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1710,47,2.75,0.43,1,2.81,20.21,110.58,5.47,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7961,256,3.22,0.41,8,2.93,104.96,767.03,7.31,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2687,95,3.52,0.39,3,2.92,37.05,255.56,6.9,8,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1578,47,3.01,0.39,2,3.34,18.33,350.06,19.1,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1765,43,2.45,0.4,1,2.43,17.2,166.6,9.69,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,659,16,2.46,0.44,0,3.02,7.04,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-16,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,325,8,2.48,0.44,0,2.67,3.52,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8624,249,2.89,0.44,7,2.9,109.56,864.8,7.89,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2473,70,2.83,0.45,2,2.39,31.5,195.94,6.22,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1880,48,2.53,0.46,2,3.43,22.08,323.48,14.65,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,8096,240,2.97,0.36,6,2.46,86.4,528.19,6.11,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2496,85,3.42,0.38,2,2.6,32.3,219.53,6.8,8,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1429,47,3.26,0.37,2,3.6,17.39,294.17,16.92,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1900,47,2.45,0.47,1,3.1,22.09,76.22,3.45,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,572,14,2.41,0.4,0,2.43,5.6,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-17,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,349,8,2.35,0.45,0,3.4,3.6,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7484,211,2.82,0.42,5,2.42,88.62,845.87,9.54,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,3110,87,2.79,0.4,2,2.42,34.8,352.14,10.12,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1843,52,2.84,0.49,1,2.7,25.48,102.74,4.03,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,8179,268,3.28,0.41,8,3.01,109.88,902.36,8.21,8,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2205,66,3.0,0.42,2,2.58,27.72,223.4,8.06,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1611,50,3.11,0.36,2,3.38,18.0,367.23,20.4,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1841,44,2.38,0.4,1,3.2,17.6,117.45,6.67,7,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,640,15,2.3,0.49,0,3.03,7.35,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-18,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,373,8,2.16,0.49,0,2.92,3.92,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8024,245,3.05,0.46,7,2.74,112.7,1009.96,8.96,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2520,72,2.87,0.47,2,3.05,33.84,149.69,4.42,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1518,44,2.92,0.47,1,3.26,20.68,103.0,4.98,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6553,190,2.9,0.38,5,2.64,72.2,486.86,6.74,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2234,67,3.02,0.4,2,2.76,26.8,227.93,8.5,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1280,40,3.13,0.4,1,2.75,16.0,103.93,6.5,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1685,38,2.28,0.4,1,2.71,15.2,173.14,11.39,6,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,649,17,2.61,0.41,0,2.86,6.97,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-19,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,315,7,2.29,0.4,0,3.13,2.8,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8137,227,2.79,0.42,6,2.44,95.34,567.54,5.95,7,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2902,83,2.85,0.41,2,2.54,34.03,203.12,5.97,7,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1853,50,2.71,0.47,2,3.25,23.5,209.09,8.9,7,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6958,238,3.42,0.43,7,3.1,102.34,569.34,5.56,8,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2346,82,3.51,0.38,2,2.55,31.16,361.5,11.6,8,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1629,50,3.09,0.39,2,3.32,19.5,268.21,13.75,7,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1616,37,2.32,0.43,1,3.07,15.91,78.67,4.94,6,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,595,14,2.42,0.46,0,2.84,6.44,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-20,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,386,9,2.36,0.44,0,3.33,3.96,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8683,259,2.98,0.44,8,3.05,113.96,999.33,8.77,7,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2896,77,2.66,0.47,2,2.93,36.19,319.38,8.83,7,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1473,45,3.07,0.43,1,3.12,19.35,125.79,6.5,7,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,8022,268,3.34,0.42,8,2.84,112.56,865.15,7.69,8,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2699,87,3.24,0.36,3,2.92,31.32,471.82,15.06,7,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1506,47,3.13,0.35,2,3.27,16.45,366.07,22.25,7,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1802,42,2.33,0.49,1,3.01,20.58,116.65,5.67,6,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,510,12,2.27,0.45,0,2.81,5.4,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-21,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,351,8,2.35,0.47,0,3.03,3.76,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8234,223,2.71,0.41,5,2.4,91.43,574.59,6.28,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,3118,80,2.58,0.41,3,3.17,32.8,307.28,9.37,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1628,43,2.64,0.44,1,3.12,18.92,117.58,6.21,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7569,235,3.1,0.42,6,2.63,98.7,472.86,4.79,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2657,88,3.32,0.36,3,2.95,31.68,549.2,17.34,8,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1346,41,3.01,0.4,1,2.82,16.4,180.02,10.98,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1597,37,2.33,0.46,1,2.53,17.02,116.86,6.87,6,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,510,12,2.43,0.45,0,2.55,5.4,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-22,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,361,8,2.24,0.47,0,3.37,3.76,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7349,221,3.01,0.43,6,2.54,95.03,719.44,7.57,7,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2602,78,3.0,0.46,2,2.82,35.88,273.27,7.62,7,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1685,48,2.85,0.48,1,2.99,23.04,139.08,6.04,7,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7743,259,3.35,0.4,7,2.63,103.6,526.19,5.08,8,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2196,65,2.97,0.36,2,2.64,23.4,296.42,12.67,7,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1437,46,3.17,0.38,1,2.8,17.48,87.29,4.99,7,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1765,44,2.47,0.49,1,2.92,21.56,131.59,6.1,7,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,576,13,2.21,0.44,0,2.64,5.72,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-23,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,329,7,2.15,0.47,0,2.79,3.29,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8149,228,2.8,0.44,7,2.96,100.32,1160.51,11.57,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2746,71,2.57,0.47,2,2.41,33.37,200.1,6.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1533,43,2.82,0.44,1,2.82,18.92,154.1,8.14,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7608,247,3.25,0.36,6,2.48,88.92,948.08,10.66,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2610,82,3.13,0.35,3,3.07,28.7,453.83,15.81,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1441,51,3.54,0.42,1,2.76,21.42,155.16,7.24,8,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1607,42,2.62,0.43,1,2.76,18.06,163.01,9.03,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,565,15,2.62,0.42,0,3.03,6.3,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-24,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,347,8,2.31,0.46,0,3.33,3.68,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7331,194,2.64,0.4,5,2.55,77.6,535.49,6.9,7,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2581,73,2.82,0.46,2,2.65,33.58,199.44,5.94,7,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1519,46,3.0,0.46,2,3.59,21.16,152.85,7.22,7,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7913,269,3.4,0.43,8,3.15,115.67,1352.37,11.69,8,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2163,75,3.46,0.41,2,2.59,30.75,328.84,10.69,8,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1509,50,3.33,0.4,2,3.13,20.0,194.49,9.72,8,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1646,39,2.36,0.48,1,2.91,18.72,76.17,4.07,7,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,572,13,2.27,0.43,0,3.17,5.59,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-25,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,322,7,2.14,0.47,0,3.39,3.29,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7934,229,2.89,0.4,6,2.68,91.6,774.79,8.46,7,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2517,69,2.76,0.42,2,2.56,28.98,328.8,11.35,7,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1537,44,2.84,0.44,1,3.2,19.36,106.25,5.49,7,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7347,215,2.93,0.42,5,2.46,90.3,600.75,6.65,7,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2145,74,3.45,0.35,2,2.75,25.9,359.93,13.9,8,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1296,43,3.34,0.4,1,2.79,17.2,84.08,4.89,8,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1857,42,2.27,0.42,1,2.93,17.64,109.62,6.21,6,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,624,14,2.22,0.43,0,2.71,6.02,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-26,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,311,8,2.45,0.4,0,3.33,3.2,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7201,191,2.65,0.4,6,2.95,76.4,890.83,11.66,7,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2911,89,3.07,0.41,2,2.73,36.49,147.0,4.03,7,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1543,45,2.93,0.43,1,2.76,19.35,170.72,8.82,7,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6309,215,3.4,0.36,6,3.01,77.4,1104.92,14.28,8,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2139,69,3.24,0.4,2,2.39,27.6,235.62,8.54,7,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1471,49,3.3,0.38,1,2.81,18.62,147.39,7.92,8,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1810,39,2.18,0.47,1,2.46,18.33,135.75,7.41,6,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,544,14,2.6,0.41,0,2.64,5.74,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-27,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,296,7,2.41,0.45,0,3.23,3.15,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8268,247,2.99,0.43,7,2.93,106.21,889.91,8.38,7,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2674,79,2.94,0.4,2,2.63,31.6,345.5,10.93,7,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1761,49,2.8,0.44,1,2.77,21.56,136.27,6.32,7,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6946,245,3.53,0.43,8,3.21,105.35,646.7,6.14,8,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2551,83,3.26,0.41,2,2.69,34.03,313.05,9.2,7,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1541,52,3.39,0.35,1,2.68,18.2,96.46,5.3,8,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1447,31,2.17,0.45,1,3.04,13.95,140.43,10.07,6,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,556,13,2.34,0.4,0,2.97,5.2,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-28,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,338,8,2.27,0.45,0,2.96,3.6,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8423,238,2.82,0.46,6,2.71,109.48,990.86,9.05,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2765,71,2.56,0.47,2,2.97,33.37,333.15,9.98,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1383,36,2.57,0.44,1,3.07,15.84,138.06,8.72,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6494,219,3.38,0.36,7,3.0,78.84,1049.64,13.31,8,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2431,73,3.0,0.39,2,3.18,28.47,317.92,11.17,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1443,43,3.01,0.42,1,2.79,18.06,97.25,5.38,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1788,45,2.51,0.47,1,2.4,21.15,97.64,4.62,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,489,12,2.48,0.4,0,2.86,4.8,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-29,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,313,7,2.38,0.43,0,3.2,3.01,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6934,197,2.84,0.42,6,2.99,82.74,756.35,9.14,7,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2307,69,3.0,0.44,2,2.59,30.36,221.92,7.31,7,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1405,43,3.04,0.45,1,3.47,19.35,174.67,9.03,7,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7176,227,3.17,0.38,6,2.65,86.26,908.61,10.53,7,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2153,64,2.95,0.39,2,2.69,24.96,346.47,13.88,7,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1240,42,3.42,0.43,2,3.59,18.06,146.54,8.11,8,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1595,36,2.28,0.43,1,3.09,15.48,131.37,8.49,6,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,476,11,2.24,0.43,0,2.85,4.73,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-04-30,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,319,8,2.42,0.47,0,3.13,3.76,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8425,249,2.95,0.4,6,2.59,99.6,685.23,6.88,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2407,65,2.71,0.48,2,3.09,31.2,358.24,11.48,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1331,38,2.89,0.47,1,3.46,17.86,77.47,4.34,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6734,205,3.05,0.35,6,2.79,71.75,1107.81,15.44,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2385,71,2.96,0.42,2,3.15,29.82,254.74,8.54,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1406,44,3.14,0.36,2,3.58,15.84,152.94,9.66,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1441,36,2.53,0.45,1,2.44,16.2,117.2,7.23,7,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,603,14,2.25,0.43,0,2.6,6.02,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-01,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,335,8,2.49,0.42,0,2.96,3.36,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6970,206,2.96,0.41,6,2.87,84.46,508.35,6.02,7,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2532,70,2.75,0.49,2,2.83,34.3,179.83,5.24,7,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1435,38,2.67,0.41,1,2.78,15.58,147.33,9.46,7,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7159,240,3.35,0.42,6,2.41,100.8,626.01,6.21,8,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2000,61,3.06,0.39,2,2.68,23.79,292.52,12.3,7,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1239,44,3.54,0.38,1,2.69,16.72,119.26,7.13,8,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1673,38,2.26,0.47,1,2.77,17.86,81.78,4.58,6,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,465,12,2.54,0.41,0,3.21,4.92,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-02,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,304,7,2.44,0.45,0,3.27,3.15,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8053,204,2.53,0.48,5,2.43,97.92,591.06,6.04,7,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2282,69,3.03,0.43,2,3.08,29.67,140.25,4.73,7,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1476,39,2.61,0.48,1,3.21,18.72,112.4,6.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5732,191,3.34,0.37,5,2.53,70.67,437.29,6.19,8,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2082,72,3.47,0.4,2,2.41,28.8,188.99,6.56,8,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1236,39,3.16,0.35,1,3.18,13.65,98.57,7.22,7,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1408,32,2.24,0.45,1,3.12,14.4,140.69,9.77,6,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,566,14,2.52,0.47,0,3.21,6.58,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-03,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,314,7,2.37,0.44,0,3.52,3.08,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6749,182,2.7,0.48,5,2.56,87.36,792.12,9.07,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2207,68,3.08,0.47,2,2.82,31.96,369.91,11.57,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1651,43,2.58,0.42,1,3.28,18.06,162.95,9.02,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7127,209,2.93,0.37,7,3.22,77.33,1166.06,15.08,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2345,73,3.13,0.42,2,3.08,30.66,172.26,5.62,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1318,45,3.42,0.43,1,3.32,19.35,68.38,3.53,8,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1611,42,2.59,0.45,1,2.85,18.9,87.59,4.63,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,584,15,2.56,0.43,0,2.79,6.45,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-04,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,274,6,2.25,0.45,0,2.87,2.7,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8034,211,2.63,0.47,5,2.49,99.17,876.27,8.84,7,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2673,72,2.7,0.45,2,2.4,32.4,350.13,10.81,7,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1553,46,2.99,0.49,2,3.48,22.54,219.66,9.75,7,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,7069,223,3.15,0.37,5,2.46,82.51,406.87,4.93,7,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1959,69,3.51,0.43,2,3.05,29.67,285.8,9.63,8,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1163,41,3.52,0.43,1,3.32,17.63,159.44,9.04,8,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1404,34,2.42,0.43,1,2.53,14.62,147.62,10.1,7,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,462,12,2.49,0.49,0,3.18,5.88,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-05,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,341,9,2.6,0.45,0,2.7,4.05,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,8010,211,2.64,0.49,6,2.86,103.39,491.26,4.75,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2573,68,2.65,0.41,2,3.21,27.88,342.48,12.28,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1279,37,2.92,0.48,1,3.27,17.76,118.6,6.68,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5878,180,3.06,0.37,4,2.44,66.6,311.86,4.68,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1846,58,3.15,0.43,2,3.0,24.94,342.29,13.72,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1249,39,3.14,0.36,1,3.18,14.04,122.54,8.73,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1629,40,2.45,0.41,1,2.96,16.4,73.85,4.5,7,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,549,13,2.28,0.49,0,2.65,6.37,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-06,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,273,6,2.32,0.45,0,3.35,2.7,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6304,180,2.85,0.44,5,2.9,79.2,343.6,4.34,7,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2655,69,2.61,0.41,2,3.13,28.29,154.3,5.45,7,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1302,34,2.63,0.47,1,3.32,15.98,152.6,9.55,7,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5789,178,3.08,0.35,5,2.58,62.3,668.06,10.72,7,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2268,68,3.0,0.38,2,2.68,25.84,200.69,7.77,7,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1284,42,3.28,0.35,1,2.85,14.7,85.5,5.82,8,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1388,30,2.18,0.43,1,3.09,12.9,112.7,8.74,6,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,495,12,2.46,0.45,0,2.46,5.4,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-07,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,323,7,2.32,0.42,0,3.08,2.94,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6443,172,2.67,0.47,4,2.43,80.84,580.38,7.18,7,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2096,57,2.71,0.49,2,2.83,27.93,271.53,9.72,7,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1405,42,2.99,0.44,1,3.44,18.48,129.26,6.99,7,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6638,212,3.2,0.39,7,3.12,82.68,521.32,6.31,7,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2266,76,3.36,0.43,2,2.8,32.68,322.11,9.86,8,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1268,42,3.3,0.41,1,2.78,17.22,85.75,4.98,8,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1624,42,2.6,0.41,1,3.06,17.22,115.8,6.72,7,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,550,13,2.35,0.46,0,3.22,5.98,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-08,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,271,7,2.58,0.4,0,3.53,2.8,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6639,179,2.7,0.44,5,2.61,78.76,849.08,10.78,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2478,71,2.87,0.44,2,2.82,31.24,229.47,7.35,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1240,35,2.85,0.49,1,3.38,17.15,175.99,10.26,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,6063,179,2.96,0.39,5,2.62,69.81,531.32,7.61,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1973,62,3.14,0.4,2,2.79,24.8,138.99,5.6,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1124,34,2.99,0.41,1,3.24,13.94,69.65,5.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1563,36,2.3,0.47,1,2.58,16.92,175.5,10.37,6,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,530,11,2.15,0.43,0,3.07,4.73,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-09,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,284,7,2.47,0.48,0,2.76,3.36,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7523,208,2.77,0.42,6,3.07,87.36,690.08,7.9,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2354,62,2.63,0.48,2,2.56,29.76,307.83,10.34,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1430,43,3.01,0.45,1,3.44,19.35,84.08,4.35,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5581,180,3.22,0.42,4,2.49,75.6,682.08,9.02,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1745,53,3.02,0.42,2,3.08,22.26,189.88,8.53,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1160,40,3.49,0.37,1,3.33,14.8,163.82,11.07,8,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1399,34,2.44,0.4,1,2.48,13.6,109.7,8.07,7,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,484,11,2.23,0.45,0,3.11,4.95,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-10,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,255,7,2.57,0.46,0,3.37,3.22,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,6395,167,2.61,0.49,5,2.86,81.83,839.27,10.26,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2314,67,2.9,0.44,2,2.61,29.48,134.81,4.57,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1413,42,2.95,0.48,1,2.67,20.16,142.68,7.08,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5914,172,2.9,0.42,4,2.59,72.24,406.62,5.63,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2185,72,3.31,0.38,2,2.74,27.36,213.69,7.81,8,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1079,35,3.2,0.42,1,3.3,14.7,112.66,7.66,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1232,29,2.39,0.48,1,2.94,13.92,109.91,7.9,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,482,12,2.43,0.41,0,2.63,4.92,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-11,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,309,8,2.45,0.42,0,3.48,3.36,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,7123,192,2.69,0.47,5,2.51,90.24,864.81,9.58,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2362,70,2.97,0.46,2,2.88,32.2,293.38,9.11,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1368,40,2.89,0.42,1,3.6,16.8,115.23,6.86,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5498,161,2.92,0.4,5,2.97,64.4,438.95,6.82,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,2028,62,3.04,0.42,2,2.83,26.04,347.57,13.35,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1182,38,3.22,0.42,1,3.46,15.96,170.18,10.66,7,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1237,27,2.19,0.42,1,2.49,11.34,162.0,14.29,6,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,487,11,2.23,0.43,0,2.95,4.73,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-12,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,260,6,2.5,0.47,0,2.95,2.82,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,5959,160,2.68,0.44,5,3.1,70.4,844.84,12.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2195,67,3.05,0.48,2,2.44,32.16,250.11,7.78,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1390,38,2.73,0.4,1,2.95,15.2,167.51,11.02,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5038,153,3.03,0.4,4,2.72,61.2,695.18,11.36,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1860,58,3.1,0.41,2,2.98,23.78,247.02,10.39,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1149,35,3.01,0.35,1,3.26,12.25,97.82,7.99,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1412,31,2.22,0.44,1,3.02,13.64,156.63,11.48,6,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,400,10,2.43,0.44,0,2.91,4.4,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-13,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,257,6,2.16,0.43,0,2.85,2.58,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,5944,178,2.99,0.46,5,2.54,81.88,701.01,8.56,7,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,1972,57,2.91,0.41,2,2.67,23.37,222.05,9.5,7,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1274,33,2.61,0.42,1,3.44,13.86,99.9,7.21,7,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5771,189,3.28,0.42,5,2.66,79.38,922.28,11.62,8,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1770,62,3.48,0.36,2,2.68,22.32,357.54,16.02,8,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1208,38,3.16,0.41,1,2.88,15.58,80.74,5.18,7,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1376,33,2.42,0.43,1,2.52,14.19,143.06,10.08,7,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,387,10,2.56,0.45,0,2.59,4.5,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-14,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,293,7,2.46,0.4,0,3.28,2.8,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,DE,5978,163,2.73,0.44,5,2.84,71.72,416.88,5.81,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,AT,2171,62,2.87,0.46,2,2.63,28.52,289.0,10.13,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,desktop,CH,1149,33,2.86,0.48,1,2.79,15.84,77.59,4.9,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,DE,5646,168,2.97,0.36,4,2.48,60.48,355.35,5.88,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,AT,1669,51,3.07,0.37,1,2.82,18.87,149.41,7.92,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,mobile,CH,1013,30,2.92,0.37,1,3.13,11.1,176.97,15.94,7,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,DE,1217,26,2.14,0.48,1,2.94,12.48,165.23,13.24,6,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,AT,449,10,2.21,0.45,0,2.46,4.5,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-05-15,GGL-317752,CMP-2023,Frühjahr-Launch – Outdoor & Sportartikel,TRAFFIC,tablet,CH,228,5,2.26,0.49,0,2.88,2.45,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,4371,141,3.22,0.56,6,4.6,78.96,599.21,7.59,7,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1609,54,3.37,0.57,3,5.46,30.78,467.95,15.2,7,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,779,29,3.75,0.58,2,5.99,16.82,215.81,12.83,7,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,3798,156,4.12,0.5,9,5.68,78.0,1465.16,18.78,8,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1200,47,3.95,0.52,3,5.81,24.44,333.86,13.66,7,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,842,36,4.27,0.59,2,5.97,21.24,157.13,7.4,8,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,966,26,2.71,0.58,2,5.78,15.08,229.85,15.24,6,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,318,10,3.15,0.58,1,5.37,5.8,110.57,19.06,7,2024-12-31T06:30:00,google_ads_api
+2024-06-01,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,177,5,2.69,0.67,0,6.03,3.35,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,4270,162,3.79,0.61,7,4.51,98.82,493.62,5.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1499,51,3.37,0.65,3,5.41,33.15,471.31,14.22,7,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,962,34,3.55,0.65,2,6.53,22.1,211.19,9.56,7,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4153,174,4.19,0.57,8,4.48,99.18,758.63,7.65,8,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1342,56,4.17,0.59,3,4.92,33.04,396.0,11.99,8,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,929,34,3.67,0.51,2,5.96,17.34,333.72,19.25,7,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1072,34,3.19,0.63,2,4.45,21.42,187.81,8.77,7,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,373,10,2.71,0.65,0,4.68,6.5,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-02,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,183,5,2.95,0.62,0,6.23,3.1,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,4947,160,3.23,0.65,8,5.1,104.0,618.54,5.95,7,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1659,59,3.54,0.57,3,4.34,33.63,412.51,12.27,7,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1034,35,3.36,0.59,2,5.73,20.65,291.15,14.1,7,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4897,191,3.91,0.52,8,4.42,99.32,956.28,9.63,7,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1508,62,4.12,0.57,3,5.06,35.34,452.73,12.81,8,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,790,33,4.23,0.53,2,5.24,17.49,329.17,18.82,8,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1170,33,2.85,0.65,2,5.13,21.45,140.99,6.57,6,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,323,9,2.76,0.66,0,5.43,5.94,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-03,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,215,6,2.79,0.61,0,6.45,3.66,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5678,207,3.65,0.61,9,4.5,126.27,1585.76,12.56,7,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1947,69,3.56,0.62,4,5.52,42.78,576.06,13.47,7,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1183,38,3.24,0.63,2,5.71,23.94,141.66,5.92,7,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5151,221,4.3,0.55,11,5.07,121.55,1930.93,15.89,8,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1438,59,4.09,0.51,3,5.45,30.09,334.47,11.12,8,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,950,41,4.33,0.54,2,5.72,22.14,365.08,16.49,8,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1221,38,3.13,0.69,2,4.75,26.22,362.92,13.84,7,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,369,10,2.76,0.65,0,4.97,6.5,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-04,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,209,6,3.09,0.66,0,6.33,3.96,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5735,189,3.29,0.6,10,5.29,113.4,1064.35,9.39,7,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1960,75,3.84,0.69,4,5.33,51.75,501.87,9.7,7,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1165,39,3.38,0.61,2,5.05,23.79,245.29,10.31,7,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4941,206,4.16,0.58,10,4.97,119.48,1659.67,13.89,8,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1552,67,4.3,0.55,4,5.57,36.85,272.13,7.38,8,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,882,37,4.16,0.58,2,5.2,21.46,168.62,7.86,8,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1092,31,2.83,0.65,2,5.62,20.15,200.83,9.97,6,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,417,11,2.7,0.57,1,5.58,6.27,169.16,26.98,6,2024-12-31T06:30:00,google_ads_api
+2024-06-05,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,245,8,3.19,0.63,0,6.13,5.04,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,6185,229,3.71,0.65,11,4.78,148.85,1937.96,13.02,7,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1894,72,3.82,0.6,4,5.83,43.2,525.02,12.15,7,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1008,34,3.33,0.66,2,5.92,22.44,338.83,15.1,7,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5471,239,4.36,0.57,13,5.41,136.23,2022.97,14.85,8,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1727,71,4.11,0.61,4,5.52,43.31,401.21,9.26,8,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,925,39,4.17,0.51,2,5.18,19.89,253.32,12.74,8,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1163,34,2.93,0.58,2,5.19,19.72,270.16,13.7,7,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,381,11,2.87,0.58,1,5.42,6.38,83.44,13.08,6,2024-12-31T06:30:00,google_ads_api
+2024-06-06,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,229,6,2.71,0.64,0,6.45,3.84,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5925,210,3.55,0.66,10,4.88,138.6,1031.43,7.44,7,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1866,61,3.28,0.63,3,4.44,38.43,344.74,8.97,7,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1199,38,3.21,0.59,2,5.23,22.42,209.65,9.35,7,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5011,190,3.8,0.55,10,5.49,104.5,1845.96,17.66,7,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1906,84,4.41,0.57,4,4.35,47.88,473.92,9.9,8,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,1148,47,4.12,0.61,3,5.92,28.67,440.72,15.37,8,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1180,38,3.22,0.61,2,5.78,23.18,259.66,11.2,7,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,395,13,3.22,0.61,1,5.59,7.93,161.34,20.35,7,2024-12-31T06:30:00,google_ads_api
+2024-06-07,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,244,7,2.7,0.58,0,6.39,4.06,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,6770,221,3.27,0.63,13,5.8,139.23,856.44,6.15,7,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1825,66,3.62,0.68,4,5.52,44.88,463.62,10.33,7,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1090,38,3.53,0.69,2,6.06,26.22,316.05,12.05,7,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5512,241,4.38,0.51,13,5.48,122.91,1561.39,12.7,8,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1720,63,3.69,0.59,3,4.42,37.17,395.91,10.65,7,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,1083,41,3.81,0.54,2,5.3,22.14,281.25,12.7,7,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1243,33,2.69,0.63,2,5.37,20.79,283.94,13.66,6,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,441,14,3.13,0.65,1,5.23,9.1,73.71,8.1,7,2024-12-31T06:30:00,google_ads_api
+2024-06-08,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,281,8,2.74,0.6,0,6.2,4.8,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,6569,227,3.46,0.65,11,4.94,147.55,1340.66,9.09,7,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,2099,68,3.25,0.67,3,4.93,45.56,391.46,8.59,7,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1376,45,3.25,0.68,3,6.02,30.6,481.21,15.73,7,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5699,223,3.92,0.56,13,5.79,124.88,1710.91,13.7,7,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1645,60,3.63,0.56,3,5.25,33.6,535.91,15.95,7,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,1022,43,4.22,0.53,3,6.4,22.79,343.56,15.08,8,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1329,40,2.98,0.59,2,4.58,23.6,330.34,14.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,400,11,2.79,0.67,1,5.56,7.37,167.17,22.68,6,2024-12-31T06:30:00,google_ads_api
+2024-06-09,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,285,9,3.27,0.63,1,5.65,5.67,99.88,17.62,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5488,177,3.22,0.62,10,5.45,109.74,1047.02,9.54,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1890,68,3.61,0.64,3,4.49,43.52,519.04,11.93,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1177,41,3.47,0.6,2,5.91,24.6,270.2,10.98,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5496,215,3.92,0.54,10,4.82,116.1,655.8,5.65,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1710,65,3.8,0.54,4,5.47,35.1,663.25,18.9,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,979,41,4.21,0.55,3,6.36,22.55,324.15,14.37,8,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1222,37,3.01,0.64,2,4.6,23.68,332.03,14.02,7,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,476,13,2.76,0.59,1,5.16,7.67,171.36,22.34,6,2024-12-31T06:30:00,google_ads_api
+2024-06-10,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,229,6,2.72,0.63,0,4.89,3.78,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,6279,215,3.43,0.68,11,5.24,146.2,1443.1,9.87,7,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,2105,81,3.85,0.66,4,5.06,53.46,435.59,8.15,7,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1142,42,3.69,0.6,3,6.11,25.2,362.29,14.38,7,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5395,213,3.94,0.57,11,5.1,121.41,1834.34,15.11,7,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1965,81,4.12,0.55,4,4.59,44.55,474.19,10.64,8,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,987,43,4.39,0.61,3,5.99,26.23,459.93,17.53,8,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1276,37,2.89,0.62,2,4.67,22.94,145.09,6.32,6,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,419,11,2.7,0.68,1,4.65,7.48,108.35,14.49,6,2024-12-31T06:30:00,google_ads_api
+2024-06-11,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,254,7,2.95,0.69,0,4.93,4.83,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,6388,224,3.51,0.67,13,5.6,150.08,1255.77,8.37,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,2078,68,3.27,0.61,4,5.34,41.48,573.6,13.83,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1319,46,3.51,0.68,3,5.5,31.28,380.89,12.18,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5110,221,4.32,0.55,11,5.08,121.55,1512.56,12.44,8,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1798,67,3.73,0.5,3,4.59,33.5,426.65,12.74,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,983,37,3.77,0.58,2,5.48,21.46,158.4,7.38,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1177,37,3.16,0.62,2,5.44,22.94,244.92,10.68,7,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,396,11,2.77,0.56,1,5.61,6.16,70.18,11.39,6,2024-12-31T06:30:00,google_ads_api
+2024-06-12,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,258,7,2.77,0.56,0,5.93,3.92,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5261,175,3.33,0.69,8,4.61,120.75,1095.38,9.07,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,2043,65,3.16,0.65,4,5.44,42.25,396.06,9.37,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1061,37,3.46,0.68,2,6.56,25.16,170.94,6.79,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,5639,232,4.11,0.59,13,5.55,136.88,1128.74,8.25,8,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1831,70,3.84,0.53,4,5.44,37.1,477.67,12.88,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,1064,41,3.81,0.5,2,5.52,20.5,178.56,8.71,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1352,40,2.98,0.58,2,4.98,23.2,153.11,6.6,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,416,13,3.04,0.66,1,4.39,8.58,125.4,14.62,7,2024-12-31T06:30:00,google_ads_api
+2024-06-13,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,223,7,2.96,0.64,0,5.08,4.48,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,6352,234,3.69,0.63,12,5.33,147.42,1313.34,8.91,7,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1721,61,3.52,0.67,3,4.69,40.87,479.24,11.73,7,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1117,40,3.56,0.66,2,6.13,26.4,297.21,11.26,7,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4521,169,3.73,0.52,9,5.07,87.88,1512.78,17.21,7,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1612,70,4.33,0.51,3,4.96,35.7,450.29,12.61,8,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,1084,44,4.09,0.49,2,5.06,21.56,287.09,13.32,8,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1259,36,2.87,0.58,2,4.89,20.88,286.38,13.72,6,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,381,12,3.19,0.61,1,4.98,7.32,98.07,13.4,7,2024-12-31T06:30:00,google_ads_api
+2024-06-14,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,251,8,3.13,0.66,0,5.56,5.28,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5361,190,3.54,0.6,9,4.72,114.0,956.9,8.39,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1976,73,3.67,0.65,4,5.64,47.45,618.95,13.04,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1094,40,3.64,0.59,2,5.13,23.6,226.13,9.58,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4651,189,4.07,0.58,10,5.4,109.62,842.89,7.69,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1839,67,3.63,0.51,3,4.47,34.17,528.31,15.46,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,954,35,3.67,0.5,2,5.24,17.5,139.06,7.95,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1121,37,3.26,0.63,2,5.27,23.31,300.79,12.9,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,401,13,3.24,0.65,1,5.59,8.45,117.68,13.93,7,2024-12-31T06:30:00,google_ads_api
+2024-06-15,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,213,7,3.07,0.6,0,6.23,4.2,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,5430,191,3.51,0.58,9,4.69,110.78,623.95,5.63,7,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1672,53,3.15,0.69,2,4.58,36.57,317.12,8.67,7,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1019,35,3.43,0.63,2,5.86,22.05,306.86,13.92,7,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4118,152,3.7,0.59,7,4.77,89.68,1223.61,13.64,7,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1507,66,4.4,0.56,3,4.76,36.96,265.03,7.17,8,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,1029,42,4.09,0.54,2,5.3,22.68,155.55,6.86,8,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,982,28,2.85,0.67,2,5.78,18.76,359.61,19.17,6,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,409,13,3.16,0.65,1,5.21,8.45,180.93,21.41,7,2024-12-31T06:30:00,google_ads_api
+2024-06-16,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,224,7,3.14,0.69,0,6.15,4.83,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,4965,177,3.56,0.57,8,4.38,100.89,584.85,5.8,7,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1756,68,3.85,0.59,4,5.37,40.12,411.55,10.26,7,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,1121,39,3.51,0.67,2,4.87,26.13,189.58,7.26,7,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,3929,163,4.16,0.5,9,5.59,81.5,1590.91,19.52,8,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1476,58,3.91,0.52,3,5.7,30.16,535.96,17.77,7,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,919,40,4.35,0.52,2,5.71,20.8,306.5,14.74,8,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,1145,32,2.8,0.59,1,4.65,18.88,139.23,7.37,6,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,322,9,2.74,0.65,1,5.74,5.85,144.61,24.72,6,2024-12-31T06:30:00,google_ads_api
+2024-06-17,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,215,7,3.13,0.56,0,5.78,3.92,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,DE,4865,170,3.49,0.68,10,5.84,115.6,1692.52,14.64,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,AT,1593,61,3.84,0.6,4,5.74,36.6,366.6,10.02,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,desktop,CH,962,31,3.19,0.62,2,6.22,19.22,259.78,13.52,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,DE,4131,163,3.94,0.51,9,5.39,83.13,1639.63,19.72,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,AT,1469,59,3.99,0.49,3,5.39,28.91,270.87,9.37,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,mobile,CH,843,33,3.88,0.52,2,5.91,17.16,261.66,15.25,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,DE,916,27,2.96,0.61,1,5.27,16.47,124.85,7.58,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,AT,308,10,3.09,0.67,0,4.9,6.7,0.0,0.0,7,2024-12-31T06:30:00,google_ads_api
+2024-06-18,GGL-389103,CMP-2047,Sommermode – Retargeting Kategorie-Besucher,CONVERSIONS,tablet,CH,180,5,2.76,0.59,0,5.84,2.95,0.0,0.0,6,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,DE,21345,828,3.88,0.9,55,6.66,745.2,4537.57,6.09,7,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,AT,8587,327,3.81,0.85,24,7.42,277.95,2998.84,10.79,7,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,CH,5117,225,4.39,0.96,17,7.65,216.0,2707.08,12.53,7,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,DE,18831,898,4.77,0.79,62,6.94,709.42,9167.64,12.92,7,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,AT,5958,298,5.01,0.83,20,6.75,247.34,2379.65,9.62,8,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,CH,3802,174,4.58,0.88,13,7.75,153.12,1247.04,8.14,7,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,DE,4143,133,3.22,1.01,10,7.55,134.33,888.75,6.62,6,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,AT,1631,59,3.59,0.98,4,6.14,57.82,430.45,7.44,7,2024-12-31T06:30:00,google_ads_api
+2024-11-08,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,CH,988,34,3.48,1.0,3,8.16,34.0,332.19,9.77,7,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,DE,27506,1158,4.21,0.85,70,6.08,984.3,11334.82,11.52,7,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,AT,9439,397,4.21,0.99,28,6.95,393.03,2059.72,5.24,7,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,CH,5315,206,3.88,0.88,15,7.2,181.28,1456.45,8.03,7,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,DE,26416,1189,4.5,0.87,80,6.69,1034.43,8686.38,8.4,7,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,AT,8813,454,5.15,0.75,30,6.62,340.5,2033.16,5.97,8,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,CH,5392,263,4.87,0.84,23,8.62,220.92,1715.98,7.77,8,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,DE,5544,178,3.21,0.99,11,5.91,176.22,1438.93,8.17,6,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,AT,1802,61,3.41,0.84,4,7.34,51.24,385.98,7.53,6,2024-12-31T06:30:00,google_ads_api
+2024-11-09,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,CH,1105,40,3.59,0.88,3,8.5,35.2,284.06,8.07,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,DE,29999,1260,4.2,0.99,76,6.05,1247.4,5200.57,4.17,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,AT,11204,493,4.4,0.91,32,6.44,448.63,5823.93,12.98,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,CH,6419,251,3.91,1.01,19,7.49,253.51,2825.58,11.15,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,DE,25483,1226,4.81,0.83,87,7.07,1017.58,11543.0,11.34,8,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,AT,9464,459,4.85,0.78,29,6.41,358.02,3763.05,10.51,8,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,CH,5995,279,4.66,0.77,20,7.31,214.83,2028.57,9.44,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,DE,5766,213,3.7,0.89,16,7.51,189.57,1940.86,10.24,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,AT,1956,74,3.78,0.91,6,7.71,67.34,396.58,5.89,7,2024-12-31T06:30:00,google_ads_api
+2024-11-10,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,CH,1300,43,3.34,0.82,3,7.0,35.26,329.51,9.35,6,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,DE,28445,1180,4.15,0.85,78,6.59,1003.0,11969.42,11.93,7,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,AT,9572,383,4.0,0.9,24,6.32,344.7,2249.94,6.53,7,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,desktop,CH,6218,276,4.44,0.96,23,8.32,264.96,2280.71,8.61,7,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,DE,27060,1356,5.01,0.87,90,6.62,1179.72,7820.0,6.63,8,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,AT,8153,395,4.84,0.77,28,7.04,304.15,3912.45,12.86,8,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,mobile,CH,4684,200,4.26,0.81,13,6.59,162.0,1135.06,7.01,7,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,DE,5443,181,3.32,0.96,13,7.24,173.76,1208.18,6.95,6,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,AT,1868,65,3.48,0.88,4,6.48,57.2,643.74,11.25,7,2024-12-31T06:30:00,google_ads_api
+2024-11-11,GGL-451234,CMP-2071,Singles' Day 11.11. – Alle Kategorien,CONVERSIONS,tablet,CH,1368,47,3.46,0.89,4,8.28,41.83,664.9,15.9,7,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,19347,582,3.01,0.71,34,5.85,413.22,4128.2,9.99,7,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,5401,191,3.53,0.83,11,5.91,158.53,875.99,5.53,7,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3706,116,3.13,0.77,8,6.54,89.32,1228.11,13.75,7,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,13344,503,3.77,0.69,29,5.84,347.07,5302.76,15.28,7,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5097,200,3.93,0.66,10,5.1,132.0,1405.0,10.64,8,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,2676,111,4.13,0.65,7,6.09,72.15,991.36,13.74,8,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,3331,101,3.02,0.73,6,5.99,73.73,471.31,6.39,7,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1264,34,2.71,0.74,2,4.86,25.16,158.72,6.31,6,2024-12-31T06:30:00,google_ads_api
+2024-12-01,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,776,20,2.53,0.83,1,5.22,16.6,122.03,7.35,6,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,18688,602,3.22,0.72,28,4.73,433.44,2127.11,4.91,7,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,6361,228,3.58,0.8,14,6.21,182.4,1010.42,5.54,7,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3783,130,3.43,0.71,9,6.58,92.3,836.29,9.06,7,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,17936,719,4.01,0.73,42,5.82,524.87,4941.14,9.41,8,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,4974,196,3.94,0.63,10,5.17,123.48,1728.4,14.0,8,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3179,119,3.75,0.71,7,5.68,84.49,614.41,7.27,7,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,3493,95,2.72,0.74,5,5.78,70.3,823.81,11.72,6,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1423,40,2.84,0.72,2,4.7,28.8,200.96,6.98,7,2024-12-31T06:30:00,google_ads_api
+2024-12-02,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,714,19,2.73,0.8,1,5.14,15.2,110.49,7.27,6,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,17578,524,2.98,0.82,31,5.98,429.68,2903.29,6.76,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,6842,233,3.4,0.76,13,5.46,177.08,1662.55,9.39,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3823,127,3.33,0.75,8,6.25,95.25,1135.27,11.92,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,15057,574,3.81,0.73,27,4.7,419.02,2175.47,5.19,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6209,222,3.57,0.62,12,5.38,137.64,1602.26,11.64,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3637,142,3.91,0.71,9,6.09,100.82,861.41,8.54,8,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,3847,110,2.86,0.85,5,4.7,93.5,450.24,4.82,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1346,41,3.02,0.83,2,4.72,34.03,144.57,4.25,7,2024-12-31T06:30:00,google_ads_api
+2024-12-03,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,809,25,3.05,0.76,1,5.9,19.0,150.01,7.9,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,21650,682,3.15,0.7,32,4.66,477.4,3246.99,6.8,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7538,271,3.6,0.82,13,4.75,222.22,1674.39,7.53,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3677,122,3.32,0.8,7,5.59,97.6,605.27,6.2,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,18608,694,3.73,0.71,33,4.76,492.74,3562.53,7.23,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5856,230,3.92,0.63,14,6.02,144.9,1213.07,8.37,8,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3409,125,3.67,0.76,7,5.43,95.0,827.13,8.71,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4005,108,2.7,0.75,7,6.2,81.0,767.24,9.47,6,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1505,42,2.77,0.8,2,5.77,33.6,265.15,7.89,7,2024-12-31T06:30:00,google_ads_api
+2024-12-04,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,771,23,2.95,0.74,2,6.82,17.02,360.8,21.2,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,20517,663,3.23,0.86,38,5.77,570.18,5186.68,9.1,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7071,257,3.63,0.74,13,5.08,190.18,1191.14,6.26,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4540,135,2.98,0.81,9,6.63,109.35,883.03,8.08,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,18450,708,3.84,0.63,43,6.09,446.04,2989.72,6.7,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5931,209,3.52,0.7,11,5.18,146.3,1022.55,6.99,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3931,137,3.49,0.75,8,5.87,102.75,1224.9,11.92,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4582,136,2.97,0.83,7,4.87,112.88,1034.26,9.16,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1495,45,3.03,0.74,2,5.55,33.3,305.39,9.17,7,2024-12-31T06:30:00,google_ads_api
+2024-12-05,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,884,23,2.57,0.82,1,5.24,18.86,106.75,5.66,6,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,23311,755,3.24,0.84,45,6.0,634.2,4149.28,6.54,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7581,255,3.37,0.82,12,4.61,209.1,1330.78,6.36,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4094,123,3.0,0.72,8,6.12,88.56,1002.31,11.32,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,17503,604,3.45,0.67,35,5.78,404.68,4146.59,10.25,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6539,248,3.8,0.65,12,4.95,161.2,1347.82,8.36,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3414,119,3.48,0.62,7,6.18,73.78,790.32,10.71,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4010,113,2.81,0.72,7,5.84,81.36,568.29,6.98,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1543,43,2.8,0.73,2,5.65,31.39,277.84,8.85,7,2024-12-31T06:30:00,google_ads_api
+2024-12-06,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,952,25,2.66,0.82,1,5.27,20.5,103.81,5.06,6,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,24661,747,3.03,0.76,42,5.68,567.72,4485.47,7.9,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7178,241,3.36,0.74,11,4.63,178.34,2018.7,11.32,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4580,166,3.62,0.72,10,5.94,119.52,703.85,5.89,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,21048,751,3.57,0.72,39,5.2,540.72,6525.94,12.07,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5928,205,3.46,0.75,13,6.13,153.75,2200.25,14.31,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4212,144,3.43,0.63,9,6.4,90.72,1071.07,11.81,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4063,107,2.64,0.73,6,5.46,78.11,766.75,9.82,6,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1470,41,2.8,0.72,2,5.77,29.52,297.7,10.08,7,2024-12-31T06:30:00,google_ads_api
+2024-12-07,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,812,23,2.85,0.7,1,6.34,16.1,85.44,5.31,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,21562,753,3.49,0.7,42,5.59,527.1,6029.98,11.44,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,6750,218,3.23,0.84,11,5.03,183.12,1586.33,8.66,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4995,149,2.98,0.8,10,6.71,119.2,927.4,7.78,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,19364,806,4.16,0.66,38,4.75,531.96,6422.48,12.07,8,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6817,243,3.56,0.68,13,5.4,165.24,2290.11,13.86,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3503,126,3.6,0.66,8,6.1,83.16,897.66,10.79,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4337,118,2.72,0.8,6,5.16,94.4,560.07,5.93,6,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1808,51,2.81,0.8,3,5.91,40.8,511.32,12.53,7,2024-12-31T06:30:00,google_ads_api
+2024-12-08,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,1047,31,2.98,0.79,2,5.19,24.49,197.25,8.05,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,21243,756,3.56,0.71,43,5.65,536.76,4767.19,8.88,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,8835,298,3.37,0.73,17,5.6,217.54,1595.34,7.33,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4250,153,3.61,0.75,10,6.79,114.75,1300.68,11.33,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,18877,664,3.52,0.73,36,5.47,484.72,6066.38,12.52,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6571,260,3.95,0.63,14,5.44,163.8,2582.75,15.77,8,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4584,162,3.53,0.75,11,6.83,121.5,1134.09,9.33,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4933,151,3.06,0.75,7,4.78,113.25,1193.9,10.54,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1742,51,2.95,0.76,3,6.02,38.76,343.05,8.85,7,2024-12-31T06:30:00,google_ads_api
+2024-12-09,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,958,29,3.05,0.85,2,6.76,24.65,195.71,7.94,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,25442,773,3.04,0.82,38,4.89,633.86,5260.64,8.3,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7552,252,3.34,0.73,12,4.96,183.96,1769.82,9.62,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4575,156,3.42,0.78,9,6.01,121.68,1238.09,10.17,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,21903,810,3.7,0.68,48,5.97,550.8,3912.07,7.1,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6475,223,3.44,0.61,13,5.83,136.03,1265.98,9.31,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4061,162,3.98,0.72,11,6.93,116.64,802.3,6.88,8,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,5489,169,3.08,0.78,10,5.99,131.82,1039.87,7.89,7,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1655,44,2.66,0.7,2,5.25,30.8,306.48,9.95,6,2024-12-31T06:30:00,google_ads_api
+2024-12-10,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,959,26,2.7,0.82,2,6.25,21.32,272.51,12.78,6,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,24184,859,3.55,0.78,50,5.86,670.02,5959.66,8.89,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,8817,265,3.0,0.78,16,6.2,206.7,1799.57,8.71,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,5097,170,3.34,0.8,10,6.08,136.0,709.15,5.21,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,19894,740,3.72,0.73,38,5.08,540.2,4573.74,8.47,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6974,271,3.88,0.69,13,4.68,186.99,1066.89,5.71,8,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4562,172,3.76,0.63,11,6.45,108.36,1742.93,16.08,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,5570,163,2.92,0.76,8,4.81,123.88,952.85,7.69,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1554,44,2.86,0.73,3,5.74,32.12,358.69,11.17,7,2024-12-31T06:30:00,google_ads_api
+2024-12-11,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,937,27,2.91,0.83,2,6.79,22.41,302.41,13.49,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,21859,667,3.05,0.75,35,5.32,500.25,4475.03,8.95,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7948,277,3.49,0.85,15,5.42,235.45,1656.62,7.04,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4692,163,3.48,0.79,11,6.8,128.77,1585.58,12.31,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,19272,784,4.07,0.72,38,4.88,564.48,4383.29,7.77,8,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6817,273,4.0,0.7,14,5.31,191.1,1107.49,5.8,8,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3834,137,3.57,0.65,9,6.27,89.05,1080.33,12.13,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,5504,156,2.83,0.84,7,4.6,131.04,654.82,5.0,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1746,49,2.79,0.71,3,5.25,34.79,411.04,11.81,7,2024-12-31T06:30:00,google_ads_api
+2024-12-12,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,942,27,2.83,0.79,2,6.27,21.33,328.06,15.38,7,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,21447,658,3.07,0.7,37,5.65,460.6,6196.0,13.45,7,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,8566,302,3.52,0.85,15,5.07,256.7,1063.26,4.14,7,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4749,147,3.09,0.8,9,6.36,117.6,1331.83,11.33,7,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,21750,872,4.01,0.68,43,4.88,592.96,5782.47,9.75,8,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,7984,279,3.49,0.66,14,5.07,184.14,1546.62,8.4,7,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3774,141,3.74,0.65,9,6.14,91.65,730.31,7.97,7,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,5308,142,2.68,0.78,8,5.44,110.76,1188.0,10.73,6,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1760,46,2.59,0.8,3,5.77,36.8,550.39,14.96,6,2024-12-31T06:30:00,google_ads_api
+2024-12-13,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,1007,29,2.91,0.86,2,6.84,24.94,198.92,7.98,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,24883,791,3.18,0.86,43,5.44,680.26,4620.88,6.79,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7412,248,3.34,0.8,13,5.43,198.4,1613.31,8.13,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4442,150,3.37,0.86,10,6.43,129.0,651.9,5.05,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,18584,723,3.89,0.74,35,4.78,535.02,5633.17,10.53,8,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,8089,302,3.73,0.69,15,5.13,208.38,2122.51,10.19,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3703,132,3.57,0.73,7,5.65,96.36,713.53,7.4,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,5051,137,2.71,0.81,6,4.6,110.97,635.78,5.73,6,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1805,52,2.87,0.72,2,4.64,37.44,209.32,5.59,7,2024-12-31T06:30:00,google_ads_api
+2024-12-14,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,966,28,2.9,0.83,2,6.8,23.24,284.96,12.26,7,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,23914,808,3.38,0.78,49,6.04,630.24,5155.44,8.18,7,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,8727,283,3.24,0.83,16,5.79,234.89,1614.74,6.87,7,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,5084,162,3.18,0.73,10,6.11,118.26,1472.59,12.45,7,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,22646,926,4.09,0.75,48,5.16,694.5,4735.45,6.82,8,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6257,260,4.16,0.74,15,5.6,192.4,2002.77,10.41,8,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4085,158,3.87,0.72,11,6.71,113.76,1645.95,14.47,8,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4767,121,2.54,0.78,6,5.26,94.38,561.1,5.95,6,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1673,51,3.06,0.74,3,4.94,37.74,235.4,6.24,7,2024-12-31T06:30:00,google_ads_api
+2024-12-15,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,1075,32,2.96,0.77,2,6.8,24.64,135.98,5.52,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,23631,780,3.3,0.85,38,4.9,663.0,5809.93,8.76,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,8083,281,3.48,0.84,14,4.82,236.04,2291.19,9.71,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,5283,181,3.42,0.82,10,5.38,148.42,1201.24,8.09,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,21912,835,3.81,0.75,38,4.6,626.25,5602.96,8.95,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,7200,251,3.48,0.62,13,5.35,155.62,1657.1,10.65,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4324,158,3.65,0.66,10,6.19,104.28,1720.56,16.5,7,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4717,124,2.63,0.75,6,5.04,93.0,707.6,7.61,6,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1509,39,2.61,0.7,2,5.03,27.3,279.51,10.24,6,2024-12-31T06:30:00,google_ads_api
+2024-12-16,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,993,26,2.64,0.75,2,5.78,19.5,163.97,8.41,6,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,24563,776,3.16,0.71,39,4.99,550.96,5405.07,9.81,7,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7570,247,3.26,0.77,12,4.8,190.19,1752.71,9.22,7,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4194,126,3.01,0.72,7,5.91,90.72,955.74,10.54,7,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,20906,847,4.05,0.7,48,5.72,592.9,4919.66,8.3,8,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,7476,296,3.96,0.69,17,5.68,204.24,3091.31,15.14,8,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4353,164,3.77,0.73,9,5.38,119.72,1578.26,13.18,7,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4822,134,2.78,0.81,8,5.7,108.54,966.78,8.91,7,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1532,41,2.65,0.8,2,5.98,32.8,349.09,10.64,6,2024-12-31T06:30:00,google_ads_api
+2024-12-17,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,945,28,2.92,0.83,2,6.35,23.24,341.78,14.71,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,22557,674,2.99,0.75,36,5.36,505.5,4332.56,8.57,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7073,246,3.48,0.71,14,5.57,174.66,1082.93,6.2,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4940,173,3.5,0.8,10,5.73,138.4,1600.92,11.57,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,20146,749,3.72,0.7,39,5.26,524.3,5099.4,9.73,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,7587,281,3.71,0.73,14,5.14,205.13,1902.83,9.28,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,4288,161,3.75,0.69,11,6.57,111.09,1026.72,9.24,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4956,127,2.57,0.79,8,6.1,100.33,987.17,9.84,6,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1648,46,2.78,0.83,3,5.49,38.18,258.42,6.77,7,2024-12-31T06:30:00,google_ads_api
+2024-12-18,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,1063,27,2.56,0.83,1,5.34,22.41,157.56,7.03,6,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,21541,711,3.3,0.71,40,5.66,504.81,6521.76,12.92,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,8275,295,3.57,0.69,17,5.62,203.55,1404.32,6.9,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4045,134,3.32,0.79,8,5.85,105.86,707.84,6.69,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,20364,745,3.66,0.75,41,5.51,558.75,4163.39,7.45,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,7336,275,3.75,0.66,17,6.18,181.5,1287.15,7.09,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3398,141,4.16,0.63,8,5.87,88.83,802.42,9.03,8,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4476,127,2.83,0.81,6,4.68,102.87,980.94,9.54,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1511,45,3.01,0.73,3,5.99,32.85,447.8,13.63,7,2024-12-31T06:30:00,google_ads_api
+2024-12-19,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,901,24,2.7,0.76,1,5.84,18.24,130.41,7.15,6,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,22453,736,3.28,0.76,36,4.89,559.36,6333.76,11.32,7,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7933,244,3.07,0.81,15,6.21,197.64,1216.7,6.16,7,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3835,114,2.98,0.78,7,6.45,88.92,821.86,9.24,7,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,21238,739,3.48,0.67,42,5.63,495.13,5028.38,10.16,7,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6857,265,3.87,0.64,14,5.28,169.6,1765.82,10.41,8,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3822,144,3.76,0.64,8,5.79,92.16,1100.39,11.94,7,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4580,137,3.0,0.78,7,4.97,106.86,800.1,7.49,7,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1538,42,2.73,0.79,3,6.17,33.18,448.76,13.53,6,2024-12-31T06:30:00,google_ads_api
+2024-12-20,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,809,23,2.79,0.72,1,6.39,16.56,152.76,9.22,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,23387,847,3.62,0.77,50,5.85,652.19,3719.41,5.7,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,7746,235,3.03,0.82,13,5.36,192.7,2343.24,12.16,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3708,126,3.39,0.75,8,6.59,94.5,570.66,6.04,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,17465,700,4.01,0.69,37,5.35,483.0,4488.39,9.29,8,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,6530,244,3.74,0.73,15,6.15,178.12,1495.58,8.4,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3204,132,4.12,0.72,9,6.5,95.04,1193.8,12.56,8,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,3844,107,2.79,0.7,5,4.86,74.9,919.22,12.27,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1583,45,2.87,0.71,2,5.05,31.95,251.34,7.87,7,2024-12-31T06:30:00,google_ads_api
+2024-12-21,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,945,25,2.68,0.74,1,5.38,18.5,167.94,9.08,6,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,17485,532,3.04,0.79,26,4.87,420.28,2161.54,5.14,7,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,6671,233,3.5,0.81,12,5.01,188.73,1478.28,7.83,7,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4305,152,3.54,0.71,9,5.76,107.92,741.68,6.87,7,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,19440,686,3.53,0.76,37,5.39,521.36,5825.43,11.17,7,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5519,207,3.75,0.64,12,5.62,132.48,1837.48,13.87,7,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3358,131,3.9,0.63,9,6.51,82.53,766.01,9.28,8,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,4055,109,2.69,0.82,6,5.8,89.38,773.41,8.65,6,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1366,40,2.92,0.72,2,5.36,28.8,338.87,11.77,7,2024-12-31T06:30:00,google_ads_api
+2024-12-22,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,728,22,3.04,0.81,1,5.96,17.82,180.41,10.12,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,20026,601,3.0,0.8,37,6.08,480.8,6650.46,13.83,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,6360,228,3.58,0.75,14,5.98,171.0,1358.71,7.95,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,3430,117,3.4,0.82,7,5.85,95.94,1084.24,11.3,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,17745,685,3.86,0.66,34,4.91,452.1,5026.34,11.12,8,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5197,199,3.83,0.73,11,5.68,145.27,730.79,5.03,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,3000,105,3.49,0.64,6,5.95,67.2,593.97,8.84,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,3670,93,2.54,0.85,4,4.74,79.05,575.17,7.28,6,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1465,45,3.06,0.81,3,5.62,36.45,238.19,6.53,7,2024-12-31T06:30:00,google_ads_api
+2024-12-23,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,870,23,2.6,0.85,1,6.33,19.55,132.93,6.8,6,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,DE,20430,727,3.56,0.74,42,5.72,537.98,5083.46,9.45,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,AT,6865,233,3.39,0.74,14,6.08,172.42,1627.33,9.44,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,desktop,CH,4026,140,3.48,0.72,8,5.73,100.8,591.04,5.86,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,DE,17095,634,3.71,0.62,33,5.13,393.08,5929.2,15.08,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,AT,5074,190,3.75,0.75,10,5.39,142.5,1382.36,9.7,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,mobile,CH,2927,111,3.79,0.72,6,5.4,79.92,547.24,6.85,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,DE,3939,120,3.04,0.71,7,5.75,85.2,516.25,6.06,7,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,AT,1310,35,2.67,0.84,2,5.31,29.4,165.73,5.64,6,2024-12-31T06:30:00,google_ads_api
+2024-12-24,GGL-502987,CMP-2086,Weihnachts-Kampagne – Geschenkideen 2024,CONVERSIONS,tablet,CH,787,24,3.05,0.74,2,6.35,17.76,298.01,16.78,7,2024-12-31T06:30:00,google_ads_api

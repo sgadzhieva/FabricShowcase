@@ -1,0 +1,41 @@
+article_id,category,brand,name,price,cost
+ART-101,Smartphones,Apple,iPhone 16 128GB,979.0,640.0
+ART-102,Smartphones,Apple,iPhone 16 Pro 256GB,1329.0,880.0
+ART-103,Smartphones,Samsung,Galaxy S25 128GB,929.0,600.0
+ART-104,Smartphones,Samsung,Galaxy S25 Ultra 256GB,1429.0,940.0
+ART-105,Smartphones,Google,Pixel 9 128GB,799.0,510.0
+ART-106,Smartphones,Xiaomi,Redmi Note 14 Pro 256GB,369.0,220.0
+ART-107,Smartphones,OnePlus,OnePlus 13 256GB,869.0,565.0
+ART-108,Smartphones,Apple,iPhone 16 Plus 256GB,1129.0,740.0
+ART-201,Laptops & Tablets,Apple,"MacBook Air M3 13""",1349.0,880.0
+ART-202,Laptops & Tablets,Apple,"iPad Air 11"" M2 256GB",879.0,560.0
+ART-203,Laptops & Tablets,Samsung,Galaxy Tab S10 256GB,829.0,530.0
+ART-204,Laptops & Tablets,Lenovo,"ThinkPad X1 Carbon i7 14""",1649.0,1080.0
+ART-205,Laptops & Tablets,HP,HP Pavilion 15 Ryzen 7,729.0,470.0
+ART-206,Laptops & Tablets,Microsoft,Surface Pro 10 i5,1249.0,810.0
+ART-207,Laptops & Tablets,Asus,ZenBook 14 OLED i7 2025,1029.0,670.0
+ART-208,Laptops & Tablets,Apple,iPad mini 7 64GB WiFi,579.0,370.0
+ART-301,Audio & Kopfhörer,Sony,WH-1000XM6 Kopfhörer,369.0,225.0
+ART-302,Audio & Kopfhörer,Apple,AirPods Pro 3. Gen,269.0,158.0
+ART-303,Audio & Kopfhörer,Bose,QuietComfort Ultra,299.0,180.0
+ART-304,Audio & Kopfhörer,Samsung,Galaxy Buds3 Pro,199.0,115.0
+ART-305,Audio & Kopfhörer,JBL,Charge 6 Bluetooth Box,179.0,104.0
+ART-306,Audio & Kopfhörer,Sonos,Era 300 Smart Speaker,449.0,275.0
+ART-307,Audio & Kopfhörer,Jabra,Evolve2 75 Headset,349.0,210.0
+ART-308,Audio & Kopfhörer,Apple,AirPods 4. Gen,189.0,110.0
+ART-401,Gaming,Sony,PlayStation 5 Pro,699.0,500.0
+ART-402,Gaming,Microsoft,Xbox Series X 2TB,549.0,390.0
+ART-403,Gaming,Nintendo,Nintendo Switch 2,449.0,300.0
+ART-404,Gaming,Sony,DualSense Edge Controller,119.0,72.0
+ART-405,Gaming,Razer,BlackShark V2 Pro 2025,169.0,100.0
+ART-406,Gaming,Logitech,G Pro X Superlight 2 Maus,169.0,100.0
+ART-407,Gaming,Samsung,"Odyssey G6 27"" Gaming Mon.",349.0,210.0
+ART-408,Gaming,Corsair,K100 RGB Air Tastatur,199.0,118.0
+ART-501,Smart Home & Wearables,Apple,Apple Watch Ultra 2,799.0,510.0
+ART-502,Smart Home & Wearables,Garmin,Forerunner 965 Smartwatch,549.0,340.0
+ART-503,Smart Home & Wearables,Fitbit,Sense 3 Fitness-Tracker,199.0,115.0
+ART-504,Smart Home & Wearables,Philips,Hue Gradient Starter Set,179.0,104.0
+ART-505,Smart Home & Wearables,Amazon,Echo Show 8 3. Gen,149.0,88.0
+ART-506,Smart Home & Wearables,Google,Nest Hub Max,229.0,138.0
+ART-507,Smart Home & Wearables,Xiaomi,Smart Band 9 Pro,79.0,44.0
+ART-508,Smart Home & Wearables,Samsung,Galaxy Watch 7 44mm,329.0,200.0
